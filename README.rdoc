@@ -1,4 +1,5 @@
 
- = Movie Rating & Review App
+  Movie Rating & Review App
 
- I built a movie rating and review application with users, movies, review (on a 1-5 rating system) and the ability to search.{View the demo application here}[http://reviewmovies.herokuapp.com/]
+ I built a movie rating and review application with users, movies, review (on a 1-5 rating system) and the ability to search.
+ {View the demo application here}[http://reviewmovies.herokuapp.com/]
